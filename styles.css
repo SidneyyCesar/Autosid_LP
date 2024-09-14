@@ -67,8 +67,11 @@ li
 
 
 .container {
+    font-weight: 450;
     width: 100%;
     margin: 0 auto;
+   text-align: center;
+    
 }
 
 main {
