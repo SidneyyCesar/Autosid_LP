@@ -70,6 +70,9 @@ main {
     transition: background-color 0.3s ease;
 }
 
+hr{
+    opacity: 0.1;
+}
 
 h3, h5,h4{
     color: #464f60;
