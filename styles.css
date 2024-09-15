@@ -11,7 +11,6 @@ header {
     background: #464f60;
     color: white;
     padding: 20px 0;
-    
     position: relative;
 }
 
@@ -38,6 +37,7 @@ nav ul li {
  }
 
 nav ul li a {
+    
     color: white;
     text-decoration: none;
     font-weight: bold;
@@ -46,7 +46,16 @@ nav ul li a {
 li
 {
     list-style-type: none;
-    
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+main {
+    padding: 5px 0;
 }
 
 .cta-button {
@@ -61,18 +70,10 @@ li
     transition: background-color 0.3s ease;
 }
 
-.container {
-    width: 75%;
-    margin: 0 auto;
-    text-align: center;
-}
 
-main {
-    padding: 5px 0;
-}
-
-h3{
+h3, h5,h4{
     color: #464f60;
+    font-weight: 600;
 }
 
 
